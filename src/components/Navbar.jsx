@@ -13,7 +13,9 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#08192f] text-gray-300 shadow-md shadow-[#040c16]'>
       <div>
-        <img src={Bipul} alt='Logo Image' style={{width: '80px'}}/>
+      <Link to='home' smooth={true} duration={500}>
+      <img src={Bipul} alt='Logo Image' style={{width: '80px'}}/>
+          </Link>
       </div>
 
 
@@ -108,7 +110,7 @@ const Navbar = () => {
           </li>
         <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[brown]'>
           <a className='flex justify-between items-center w-full text-gray-300'
-          href="/">
+          href="https://docs.google.com/document/d/1frOlhbSc6ueCqymCARyk2eMh1LIpkYLs2S6c4dwOuok/edit?usp=sharing">
             Resume <BsFillPersonLinesFill size={30}/>
           </a>
         </li>

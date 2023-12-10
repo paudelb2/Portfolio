@@ -17,11 +17,8 @@ const About = () => {
               <p>Hi, I am Bipul. Its nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>As a recent graduate student in Cyber Security Engineering, my journey into the world of technology started from a young age with a simple fascination for computers. This early interest has blossomed into a deep commitment to a career in cybersecurity. I'm captivated by the ever-evolving tech landscape and the growing challenges posed by cyber threats. What excites me most is the opportunity to tackle these threats, solve complex security problems, and protect important information. I aspire to use my skills in a role where I can keep learning, make a meaningful impact, and help advance cybersecurity. For me, this field is not just a career choice—it's a way to satisfy my curiosity and make a real difference in our increasingly digital world.
+                </p>  
             </div>
           </div>
       </div>

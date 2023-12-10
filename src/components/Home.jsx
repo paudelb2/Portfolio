@@ -12,14 +12,9 @@ const Home = () => {
           <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
             Bipul Paudel
           </h1>
-          <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-            I'm a Full Stack Developer.
-          </h2>
+          
           <p className='text-[#8892b0] py-4 max-w-[700px]'>
-            I’m a full-stack developer specializing in building (and occasionally
-            designing) exceptional digital experiences. Currently, I’m focused on
-            building responsive full-stack web applications.
-          </p>
+          Hi, my name is Bipul Paudel. I am a dedicated cybersecurity enthusiast with a strong background in software engineering. I've always been fascinated by technology and how to protect it. My journey in software engineering has given me a solid understanding of how technology works and the skills to solve complex problems. Currently, I'm expanding my knowledge by pursuing a Master's degree in Cyber Security Engineering. This is helping me dive deeper into the world of internet security and learn about protecting systems from cyber threats. I'm excited to blend my practical software skills with my growing cybersecurity expertise to make a real impact in this ever-evolving field.         </p>
           <div>
           <ul className='hidden md:flex'>
         <li>
